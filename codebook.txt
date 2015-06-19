@@ -1,0 +1,9 @@
+TidyDataOut.txt file contents
+
+subjectID: 	possible values included 1-30, each value representing a separate subject
+
+activity: 	a total of 6 possible activities, WALKING, WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING
+
+signal:		a total of 66 signals are either mean() or std()
+
+signalAVG:	mean of the 66 signals (na.rm=TRUE)
